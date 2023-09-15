@@ -14,7 +14,7 @@ status-website:
   cname: upptime.didx.co.za
   baseUrl: /
   logoUrl: https://avatars.githubusercontent.com/u/51539199
-  name: did:Upptime
+  name: did:up
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: |-
     This is a status page of various endpoints hosted by DIDx.
