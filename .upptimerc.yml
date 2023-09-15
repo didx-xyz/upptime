@@ -23,7 +23,7 @@ status-website:
 
     No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime).
 
-    _This page is automatically updated on a best-effort basis every 5-30 minutes_
+    _This page is automatically updated on a best-effort basis every 5-30 minutes._
   navbar:
     - title: Home
       href: https://www.didx.co.za
