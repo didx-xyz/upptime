@@ -4,17 +4,19 @@
     "url": "https://trust-registry.didx.co.za/api/registry",
     "icon": "https://www.didx.co.za/assets/images/logo/favourite_icon.png",
     "slug": "ssi-trust-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 860,
-    "timeWeek": 1036,
-    "timeMonth": 990,
-    "timeYear": 990,
-    "dailyMinutesDown": {}
+    "time": 991,
+    "timeDay": 928,
+    "timeWeek": 1031,
+    "timeMonth": 991,
+    "timeYear": 991,
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   }
 ]
