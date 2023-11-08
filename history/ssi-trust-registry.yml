@@ -1,7 +1,7 @@
 url: https://trust-registry.didx.co.za/api/registry
-status: up
-code: 200
-responseTime: 846
-lastUpdated: 2023-11-07T23:03:09.009Z
+status: down
+code: 503
+responseTime: 916
+lastUpdated: 2023-11-08T05:24:08.325Z
 startTime: 2023-09-15T09:41:50.880Z
 generator: Upptime <https://github.com/upptime/upptime>
